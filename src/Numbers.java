@@ -13,7 +13,7 @@ public class Numbers {
         if(number1>number2){ number3= number1+number2; System.out.println("El numero  "+number1+" es mayor que el numero "+number2+"y la suma entre estos numeros es "+number3);
 
         }else{
-            number3= number1-number2; System.out.println("El numero "+number1+" es menor que el numero "+number2+" y la resta entre estos numeros es "+number3);
+            number3= number1-number2; System.out.println("El numero "+number1+" es menor que el numero 2"+number2+" y la resta entre estos numeros es "+number3);
 
         
         }
