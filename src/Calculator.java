@@ -53,6 +53,7 @@ public class Calculator {
     break;
 
    }
+   lectura.close();
 
      }
      
