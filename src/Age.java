@@ -12,7 +12,6 @@ import java.util.Scanner;
                 System.out.println("Bienvenido siga");
             }
             else{
-                System.out.println("Acceso denegado");
             }
             lectura.close();
 
