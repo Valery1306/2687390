@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Retoo7 {
+public class Challenge7 {
     public static void main(String[] args) {
         Scanner lectura= new Scanner(System.in);
         int bolita, buy, total, discount;

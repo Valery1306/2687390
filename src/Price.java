@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Precio {
+public class Price {
     public static void main(String[] args) {
         int precio, cantidad;
         Scanner leer=new Scanner(System.in);
